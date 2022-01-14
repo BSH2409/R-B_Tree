@@ -31,7 +31,7 @@ The following project is based on understanding the intermediate steps included 
 * [Computer Graphics(graphics.h)](https://developerinsider.co/graphics-graphics-h-c-programming/#:~:text=The%20graphics.,using%20initgraph%20method%20of%20graphics.)
 
 ### Test Bed
-* CodeBlock 17.12
+* TurboC++
 <p align="right">(<a href="#top">↑</a>)</p>
 
 
@@ -78,7 +78,11 @@ All the transitions have been made using the mathematical functions present in t
 ## Result and Visualisation of the project through Video
 
 <div align="center">
-https://user-images.githubusercontent.com/79904688/149501182-ef1d50e8-13f7-4675-976a-55acc0bf54e9.mp4
+
+
+
+https://user-images.githubusercontent.com/79904688/149501423-55724941-3430-410a-91fb-6cfcb89c2fcd.mp4
+
 </div>
 <p align="right">(<a href="#top">↑</a>)</p>
 
